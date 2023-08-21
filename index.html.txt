@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OLAYEMI GBENGA</title>
+    <meta charset="UTF-8">
+
+    <nav>
+
+    </nav>
+<body>
+    <div><h1>OLAYEMI GBENGA</h1></div>
+    <br>
+    <style>body{background-color: aqua;
+        
+    }
+    </style>
+    
+    <div>
+        <nav>
+            <ul>
+                <i><b><li><a href="https://github.com/Perpysneh">HOME</a></li></b></i>
+                  <i><b><li><a href="https://github.com/Perpysneh/git_lesson_gbenga.git">ABOUT</a></li></b></i>  
+            <i><b><li><a href="https://gomycode.com/ng/courses/the-full-stack-js-bootcamp/">WORK</a></li></b></i>
+                    <i><b><li><a href="https://www.linkedin.com/in/gbenga-olayemi-a3026666/">CONTACT</a></li></b></i>
+                
+            </ul>
+<p></p>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6rDc41NbKl4" title="youtube video player" frameborder="0" allow="acceloremeter;autoplay;clipboard-write;encrypted-media;groscope;picture-in-picture;webshare"allowfullscreen></iframe>
+<i><b><p>What we do at OLAYEMI GBENGA</p></b></i>
+<ol>
+<li>Full stack Javascript</li>
+<li>Front-end with React</li>
+<li>Back-end with node js</li>
+</ol>
+<ul><li>Full stack Javascript</li>
+    <li>Front-end with React</li>
+    <li>Back-end with node js</li></ul>
+
+        </nav>
+        <p>Additional infomatation avaiable at <a href="https://github.com/Perpysneh">OLAYEMI GBENGA</a></p>
+    </div>
+
+    <div>
+<table border="2">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Age</th>
+            <th>Gender</th>
+        </tr>
+        
+        
+    
+        
+    </thead>
+</table>
+<br>
+    </div>
+    <br>
+<div>
+<h2>Sign Up</h2>
+<form>
+<label for="">Name</label>
+<input type="Text">
+<br>
+<label for="">Surname</label>
+<input type="Text"
+<br>
+<label for="">Phone Number</label>
+<input type="Number">
+<br>
+<label for="">Country</label>
+<select>
+<option value="">NIGERIA</option>
+<option value="">EGYPT</option>
+<option value="">SENEGAL</option>
+</select>
+<br>
+<button>Please Submit</button>
+
+</form>
+
+
+</div>
+<h3>Learn everyday..</h3>
+
+</body>
+
+</head>
+</html>
